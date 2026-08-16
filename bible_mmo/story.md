@@ -28,6 +28,10 @@ ancient inscriptions.
   - Motivated by uncovering how ancient cultures perceived reality
   - Serves as the “mentor figure” in the opening cutscene
 
+- Religious Affiliation: Jewish, spiritually curious but non-dogmatic. She is on
+  the fence about whether biblical accounts reflect divine revelation or
+  humanity's interpretation of extraordinary events.
+
 #### Prof. Daniel Kessler - Lead Physicist, Quantum-Sync Division
 
 A brilliant but eccentric physicist specializing in quantum entanglement and
@@ -41,6 +45,10 @@ sequence.
   - Loves explaining complex concepts with metaphors
   - Motivated by proving quantum‑sync is not only possible but scalable
   - Provides the player’s first technical briefing
+
+- Religious Affiliation: Agnostic. He is actively trying to disprove the Bible's
+  supernatural claims by looking for physical, quantum, or historical explanations
+  for apparent miracles.
 
 #### Dr. Evelyn Saroyan - Chief Archaeological Consultant
 
@@ -56,6 +64,10 @@ oversees artifact analysis and cultural reconstruction.
   - Acts as the “real‑world anchor” to balance the sci‑fi elements
   - Introduces the player to the historical stakes of the project
 
+- Religious Affiliation: Secular, culturally Christian. She approaches biblical
+  claims skeptically and is interested in evidence that could disprove or
+  corroborate the historical record.
+
 #### Dr. Marcus Ellington - Program Administrator, VR Integration
 
 The 'tech guy'. Formerly a VR systems architect for medical training
@@ -67,6 +79,10 @@ interfaces with quantum‑sync hardware.
   - Always juggling deadlines and budgets
   - Motivated by keeping the project alive and funded
   - Acts as the liaison between the player and the facility’s operations
+
+- Religious Affiliation: Protestant Christian, privately questioning. He wants
+  the project to produce evidence that could prove the Bible's historical
+  reliability, but worries about confirmation bias.
 
 ### Scientific Staff
 
@@ -82,6 +98,10 @@ and quantum computing makes her indispensable.
   - Motivated by pushing technology beyond theoretical limits
   - Provides the player with safety protocols and sync diagnostics
 
+- Religious Affiliation: Hindu. She is on the fence about the Bible's
+  supernatural claims and is more interested in whether the evidence can
+  distinguish revelation from cultural tradition.
+
 #### Dr. Leonid Markov - Computational Physicist
 
 A Russian computational theorist who models temporal drift and probability
@@ -93,6 +113,10 @@ in the ancient world.
   - Speaks in short, efficient sentences
   - Motivated by solving “impossible” mathematical problems
   - Warns the player about risks of desynchronization
+
+- Religious Affiliation: Atheist. He is openly trying to disprove biblical
+  miracles by demonstrating that apparently supernatural events can be modeled
+  through natural causes.
 
 #### Dr. Naomi Feld - Linguistics & Ancient Language Specialist
 
@@ -106,6 +130,10 @@ understands Hebrew, Aramaic, and Greek upon arrival.
   - Motivated by bridging communication across millennia
   - Gives the player their first “language calibration” test
 
+- Religious Affiliation: Jewish. She is cautiously sympathetic to the Bible's
+  historical and linguistic reliability and is willing to investigate evidence
+  that could support its claims.
+
 #### Dr. Gamriel Ortiz - Cognitive Synchronization Researcher
 
 Gabriel studies how memory, identity, and consciousness behave during sync.
@@ -117,6 +145,10 @@ He monitors the player’s mental stability and emotional responses.
   - Motivated by protecting participants from psychological harm
   - Acts as the emotional grounding presence in the opening cutscene
 
+- Religious Affiliation: Catholic Christian. He hopes the project will uncover
+  evidence supporting the Bible, especially its accounts of human encounters with
+  the divine, while remaining concerned about the participants' wellbeing.
+
 #### Dr. Selene Park - Temporal Modeling Analyst
 
 Selene analyzes how historical timelines respond to quantum interference.
@@ -127,6 +159,10 @@ She ensures the player’s actions do not destabilize the ancient world.
   - Obsessed with accuracy
   - Motivated by preventing timeline contamination
   - Briefs the player on “non‑interference protocols”
+
+- Religious Affiliation: Agnostic. She is firmly on the fence and insists that
+  neither proving nor disproving the Bible should be assumed before the evidence
+  is examined.
 
 #### Dr. Victor Al-Masri - Cultural Reconstruction Specialist
 
@@ -164,6 +200,10 @@ ensures that every object in the ancient world behaves realistically.
   - Motivated by reconstructing daily life with accuracy
   - Shows the player restored artifacts during orientation
 
+- Religious Affiliation: Unaffiliated. They are on the fence and believe
+  material evidence should be allowed to challenge both religious and skeptical
+  assumptions.
+
 #### Dr. Layla Haddad - Near Eastern Historian
 
 Layla contextualizes political, social, and religious systems of the Ancient
@@ -174,6 +214,10 @@ Near East. She ensures narrative arcs align with real historical dynamics.
   - Excellent storyteller
   - Motivated by helping players understand the humanity of ancient peoples
   - Gives the player a “historical primer” before sync
+
+- Religious Affiliation: Muslim. She is skeptical of attempts to prove the Bible
+  through archaeology alone and is willing to test claims that could either
+  support or undermine biblical narratives.
 
 #### Dr. Isaac Romero - Artifact Restoration Lead
 
@@ -186,6 +230,10 @@ techniques. His work directly informs the archaeology gameplay loop.
   - Motivated by preserving history for future generations
   - Demonstrates restoration tools to the player
 
+- Religious Affiliation: Catholic Christian. He hopes the ancient material
+  record will strengthen the case for the Bible's historical reliability, though
+  he avoids forcing conclusions from incomplete artifacts.
+
 #### Dr. Sofia Kouris - Classical Studies & Greek Specialist
 
 Sofia focuses on Greek language, culture, and regional interactions. She
@@ -196,6 +244,10 @@ ensures Greek‑speaking regions feel authentic.
   - Loves comparing Greek and Near Eastern cultures
   - Motivated by cultural accuracy and linguistic nuance
   - Helps calibrate the player’s Greek language sync
+
+- Religious Affiliation: Greek Orthodox Christian. She is cautiously trying to
+  prove aspects of the Bible's historical context through language, culture, and
+  comparative ancient sources.
 
 ### Technical & Engineering Crew
 
@@ -210,6 +262,10 @@ the one fixing things when alarms go off.
   - Motivated by keeping the facility running smoothly
   - Appears during sync chamber prep scenes
 
+- Religious Affiliation: Atheist. He is trying to disprove supernatural
+  explanations whenever the project produces extraordinary results, preferring
+  explanations that can be tested and reproduced.
+
 #### Priya Deshmukh - VR Hardware Engineer
 
 Priya designs the neural‑interface VR components that merge with
@@ -220,6 +276,9 @@ quantum‑sync technology.
   - Loves tinkering and prototyping
   - Motivated by merging VR with real‑world cognition
   - Helps the player suit up for the sync procedure
+
+- Religious Affiliation: Hindu. She is on the fence about the Bible and treats
+  its supernatural claims as hypotheses rather than conclusions.
 
 #### Jonas Whitford - Network Architect
 
@@ -232,6 +291,10 @@ quantum‑sync system.
   - Motivated by building systems that never fail
   - Monitors the player’s sync connection during the cutscene
 
+- Religious Affiliation: Agnostic. He is mostly neutral, but becomes interested
+  in evidence that could either prove or disprove biblical claims if it can be
+  independently verified.
+
 #### Talia Greene - Simulation Environment Designer
 
 Talia builds the visual and interactive layers that overlay the ancient
@@ -243,6 +306,10 @@ world during sync.
   - Motivated by creating immersive educational experiences
   - Shows the player early environment renders
 
+- Religious Affiliation: Spiritual but unaffiliated. She is on the fence and is
+  fascinated by the possibility that the ancient world may contain evidence of
+  experiences later described in biblical traditions.
+
 #### Omar Reyes - Security Systems Engineer
 
 Omar oversees physical and digital security for the facility.
@@ -252,6 +319,10 @@ Omar oversees physical and digital security for the facility.
   - Rarely smiles but is deeply loyal
   - Motivated by keeping everyone safe
   - Appears during facility access sequences
+
+- Religious Affiliation: Muslim. He respects biblical traditions but is
+  skeptical of efforts to treat the experiment as a straightforward proof of
+  Christian theology.
 
 ### Support & Operations
 
@@ -265,6 +336,10 @@ Sarah manages schedules, equipment, and personnel movement.
   - Motivated by keeping chaos under control
   - Helps orient the player upon arrival
 
+- Religious Affiliation: Lutheran Christian. She quietly hopes the research will
+  prove the Bible's historical credibility, while trying not to let her personal
+  beliefs influence the logistics.
+
 #### Michael Trent - Field Operations Manager
 
 Michael coordinates field teams and oversees safety protocols.
@@ -274,6 +349,10 @@ Michael coordinates field teams and oversees safety protocols.
   - Former military
   - Motivated by operational excellence
   - Gives the player a safety briefing
+
+- Religious Affiliation: Baptist Christian. He is actively trying to prove the
+  Bible's reliability and sees the project as a chance to test historical claims
+  under unusually direct conditions.
 
 #### Jade Kimura - Medical Officer
 
@@ -285,6 +364,10 @@ Jade monitors the physical health of sync participants.
   - Motivated by protecting participants from sync‑related strain
   - Performs the player’s pre‑sync medical check
 
+- Religious Affiliation: Secular Buddhist. She is on the fence and focuses on
+  what can be observed about human experience rather than deciding in advance
+  whether biblical supernatural claims are true.
+
 #### Caleb Rourke - Safety & Compliance Officer
 
 Caleb ensures the project meets ethical and legal standards.
@@ -295,6 +378,10 @@ Caleb ensures the project meets ethical and legal standards.
   - Motivated by preventing accidents and liability
   - Reviews the player’s consent documentation
 
+- Religious Affiliation: Evangelical Christian. He strongly wants evidence that
+  proves the Bible is reliable, but his compliance role forces him to document
+  contradictory evidence as well.
+
 #### Nora Vance - Communications Specialist
 
 Nora handles internal communications, documentation, and public‑facing materials.
@@ -304,3 +391,7 @@ Nora handles internal communications, documentation, and public‑facing materia
   - Great at simplifying complex ideas
   - Motivated by transparency and clarity
   - Helps the player understand the organization’s mission
+
+- Religious Affiliation: Agnostic. She is deliberately on the fence and wants
+  the public record to include evidence supporting and challenging the Bible
+  rather than becoming religious advocacy.
