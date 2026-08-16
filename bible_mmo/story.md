@@ -46,8 +46,8 @@ sequence.
 
 A field archaeologist with 20 years of experience across Israel, Jordan, and
 Turkey. Evelyn’s expertise ensures that the ancient world the player enters
-is historically accurate. She oversees artifact analysis and cultural
-reconstruction.
+is historically accurate as she searches for artifacts in the real world. She
+oversees artifact analysis and cultural reconstruction.
 
 - Personality Profile:
   - Practical, observant, grounded
@@ -58,9 +58,9 @@ reconstruction.
 
 #### Dr. Marcus Ellington - Program Administrator, VR Integration
 
-Formerly a VR systems architect for medical training simulations. Marcus
-manages logistics, funding, and the integration of VR interfaces with
-quantum‑sync hardware.
+The 'tech guy'. Formerly a VR systems architect for medical training
+simulations. Marcus manages logistics, funding, and the integration of VR
+interfaces with quantum‑sync hardware.
 
 - Personality Profile:
   - Organized, diplomatic, slightly stressed
